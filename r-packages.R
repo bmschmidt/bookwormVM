@@ -1,6 +1,7 @@
 options("repos"="http://cran.rstudio.com") # set the cran mirror
 
-packages <- c("devtools",
+packages <- c("BH",
+              "devtools",
               "ggplot2",
               "tidyr",
               "dplyr",
